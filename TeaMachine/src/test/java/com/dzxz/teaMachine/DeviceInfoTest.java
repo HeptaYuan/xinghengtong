@@ -19,14 +19,8 @@ public class DeviceInfoTest {
     @Test
     public void testFindDeviceList() throws Exception {
 
-        Config config = new Config();
-//        config.accessKeyId = "LTAI5tA7o1d2hHZDrC214e4E";
-        config.accessKeyId = "LTAI4FoGfoX7h2qmUutzeqpm";
-//        config.accessKeySecret = "VjpbRSrZP17ODNzErRWZbcZAc2mBSe";
-        config.accessKeySecret = "fF2v0Rlhvb9EyjHPdZUt1ywovqq6ba";
-        config.regionId = "cn-shanghai";
 
-        Client client = new Client(config);
+
 
 
 
